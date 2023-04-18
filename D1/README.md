@@ -1,0 +1,1 @@
+Check out this article regarding this project: https://www.joesurf.io/100-days-of-python-day-1-writing-good-code-building-a-game/
